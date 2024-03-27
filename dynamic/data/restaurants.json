@@ -1,0 +1,34 @@
+[
+  {
+    "id": "r1",
+    "name": "Krishna",
+    "address": "dwarka-highway",
+    "cuisine": "Gujarati",
+    "website": "https://www.krishna.com",
+    "description": "Kathiyavadi Special"
+  },
+  {
+    "id": "r2",
+    "name": "Bethak",
+    "address": "Khodiyar colony, Jamnagar",
+    "cuisine": "Punjabi",
+    "website": "http://www.bethak.com",
+    "description": "Dhosa"
+  },
+  {
+    "id": "r3",
+    "name": "Khodiyar",
+    "address": "Patel Colony",
+    "cuisine": "Punjabi",
+    "website": "https://www.khodiyar.com",
+    "description": "Nice"
+  },
+  {
+    "name": "Patel",
+    "address": "Jamnagar",
+    "cuisine": "Gujarati",
+    "website": "https://www.patel.com",
+    "description": "Awesome!",
+    "id": "bfa80710-6505-4097-beb5-b8394d6b3e09"
+  }
+]
